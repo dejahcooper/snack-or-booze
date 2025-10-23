@@ -1,0 +1,7 @@
+# macOS artifacts
+.DS_Store
+
+# React workspace outputs
+snack-or-booze/node_modules/
+snack-or-booze/build/
+snack-or-booze/coverage/
